@@ -2663,8 +2663,8 @@ Este workflow y documentación son propiedad del Banco de Occidente y están suj
 
 ---
 
-**Última Revisión**: Octubre 2024  
-**Próxima Revisión**: Enero 2025  
-**Responsable**: Equipo de Arquitectura ESB/ACE
+**Última Revisión**: Octubre 2025  
+**Próxima Revisión**: noviembre 2025  
+**Responsable**: Equipo acargo proyecto Automatizacion pull, 
 
 Para modificar las validaciones, editar el archivo `.github/workflows/checklist.yml` y actualizar este documento correspondientemente siguiendo el proceso descrito arriba.
