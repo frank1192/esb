@@ -1,7 +1,7 @@
 # Documentación Técnica del Workflow checklist.yml
 
 > **Versión del Documento**: 2.0  
-> **Última Actualización**: Octubre 2024  
+> **Última Actualización**: Octubre 2025  
 > **Workflow Version**: checklist.yml v1.0  
 > **Responsable**: Equipo ESB/ACE
 
@@ -1810,12 +1810,12 @@ gh api /user -H "Authorization: Bearer $TOKEN" --jq '.updated_at'
 └─────────────────┬───────────────────────┘
                   │
                   ▼
-┌─────────────────────────────────────────┐
-│ 7. Merge y Monitoreo                    │
-│    - Merge a main después de aprobación│
-│    - Monitorear falsos positivos        │
-│    - Ajustar si es necesario            │
-└─────────────────────────────────────────┘
+┌────────────────────────────────────────────┐
+│ 7. Merge y Monitoreo                       │
+│    - Merge a mdevelop después de aprobación│
+│    - Monitorear falsos positivos           │
+│    - Ajustar si es necesario               │
+└────────────────────────────────────────────┘
 ```
 
 ### Sincronización Workflow-Documentación
@@ -1867,7 +1867,7 @@ Incrementos:
 
 **Historial de Versiones**:
 ```markdown
-### v2.0 - Octubre 2024
+### v2.0 - Octubre 2025
 - Documentación técnica completa
 - Diagramas de flujo
 - Troubleshooting exhaustivo
